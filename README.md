@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="profile.jpg" alt="Rohit Bhargava" width="150" height="150" style="border-radius: 50%;">
+  <img src="IMG-20210324-WA0006.jpg" alt="Rohit Bhargava" width="150" height="150" style="border-radius: 50%;">
 </div>
   
 # Hi there 👋, I'm Rohit Bhargava
